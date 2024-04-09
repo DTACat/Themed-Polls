@@ -1,0 +1,21 @@
+[class*="scroller"] [class*="itemCard"] {
+	background: var(--bg-overlay-3);
+}
+[class*="pollContainer"] {
+	background: var(--bg-overlay-3);
+}
+[class*="pollBadge"] {
+	background: var(--bg-overlay-2);
+}
+[class*="pollBadge"]{
+	background: var(--bg-overlay-6);
+}
+[class*="votePercentageBar"] {
+	background: var(--bg-overlay-2);
+}
+[class*="answerInner"] {
+	background: var(--bg-overlay-4);
+}
+[class*="pollContainer"] [class*="buttonPresentation"] {
+	background: var(--bg-overlay-4);
+}

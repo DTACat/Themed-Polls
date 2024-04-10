@@ -1,4 +1,4 @@
-![Logo (73)](https://github.com/DTACat/Themed-Polls/assets/141873540/2000edc8-2270-4071-9ced-ef340bb5e1a4)
+![Logo (74)](https://github.com/DTACat/Themed-Polls/assets/141873540/238a33dc-3c55-4876-96f9-91009f889d15)
 
 Discord made Polls look ugly if you have a Nitro theme on:
 

@@ -1,3 +1,5 @@
+![Logo (73)](https://github.com/DTACat/Themed-Polls/assets/141873540/2000edc8-2270-4071-9ced-ef340bb5e1a4)
+
 Discord made Polls look ugly if you have a Nitro theme on:
 
 ![image](https://github.com/DTACat/Poll-Theme-Fix/assets/141873540/3d3bdf7e-76ac-4fb7-992f-588d600400cf)
